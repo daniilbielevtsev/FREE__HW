@@ -4,10 +4,7 @@ body {
   background-color: #f0f0f0;
   font-family: Arial, sans-serif;
   color: #fff;
-  background-color: #333;
-  background-image: url(../img/body-background-color.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
+  background: linear-gradient(#242222, rgb(42, 22, 68));
 }
 
 .container {
