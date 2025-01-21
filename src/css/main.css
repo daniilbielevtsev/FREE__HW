@@ -121,9 +121,10 @@ body {
   margin-bottom: 20px;
 }
 .back-price {
+  font-family: "Montserrat", serif;
   text-align: center;
   font-size: 50px;
-  font-weight: 400;
+  font-weight: 300;
   margin-bottom: 60px;
 }
 .back-button {
